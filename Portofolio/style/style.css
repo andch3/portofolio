@@ -1,0 +1,136 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: #333;
+  padding: 20px;
+  height: 20px;
+}
+
+.nav-2 {
+  background-color: #333;
+  padding: 10px;
+  height: 70px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.mouse a:link {
+  color: #fff;
+}
+
+.mouse a:visited {
+  color: #fff;
+}
+  
+.mouse a:hover {
+  background: #f2f2f2;
+}
+
+.mouse a:active {
+  color: gray;
+}
+
+.after-link {
+  background: gray;
+  text-decoration: underline;
+}
+
+nav ul h1 {
+  color:#fff;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  padding: 5px 10px;
+  font-weight: bold;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1px;
+}
+
+header {
+  background-color: #fff;
+  color: #333;
+  text-align: center;
+}
+
+.pp {
+  width: 200px;
+  height: 200px;
+  border-radius: 20%;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 18px;
+}
+
+.project {
+  background-color: #bebebe;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.project p {
+  text-align: center;
+}
+
+h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  margin: 0 auto;
+  padding: 1px;
+}
+
+.kontak ul li a {
+  color: #000000;
+  text-decoration: none;
+}
+
+.kontak ul li a:hover {
+  color: rgb(255, 255, 255);
+  background: #000000;
+}
+
+.kontak h2 {
+  padding: 10px 20px;
+}
+
+.text-white {
+  color: #fff;
+  text-align: center;
+}
+
+.gif {
+  text-align: center;
+}
